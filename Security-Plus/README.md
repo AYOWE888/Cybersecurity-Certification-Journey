@@ -8,3 +8,26 @@ I am studying for the SY0-701 exam using Professor Messer's course. Below are my
 | :--- | :--- | :--- | :--- | :--- |
 | 2026-01-12 | Beginner | 1.1 Security Controls | 80% | [View Report](./Quizzes/Quiz_01.md) |
 | 2026-01-12 | Intermediate | 1.1 Security Controls | 100% | [View Report](./Quizzes/Quiz_02.md) |
+
+--
+
+## 🛠️ Security+ Toolbelt
+*Tracking my hands-on proficiency with essential security tools and commands.*
+
+### 🖥️ Command Line Mastery (CLI)
+| Tool | Purpose | Status |
+| :--- | :--- | :---: |
+| `ping` / `hping` | Connectivity & Network Stress Testing | 🟢 |
+| `ipconfig` / `ifconfig` | Interface Configuration & MAC discovery | 🟢 |
+| `nslookup` / `dig` | DNS Troubleshooting | 🔴 |
+| `netstat` | Viewing active connections & listening ports | 🔴 |
+| `tracert` / `traceroute` | Path analysis & TTL identification | 🔴 |
+| `nmap` | Port scanning & Service identification | 🟡 |
+
+### 🔍 Analysis & Defense Tools
+| Tool | Usage Scenario | Status |
+| :--- | :--- | :---: |
+| **Wireshark** | Packet capture and protocol analysis | 🔴 |
+| **OpenSSL** | Generating certificates and testing encryption | 🔴 |
+| **Windows Event Viewer** | Analyzing system logs for brute force signs | 🔴 |
+| **Snort / Suricata** | Basic IDS/IPS rule configuration | 🔴 |
