@@ -23,9 +23,11 @@ Digital journal and lab proof for CCNA, Security+, and eJPT.
 ---
 
 ### 💀 eJPT (Junior Penetration Tester)
-
-| Section | Status | Mastery Level |
+| Section | Status | Practical Proof (TryHackMe Labs) |
 | :--- | :---: | :--- |
-| Assessment Methodologies | 🔴 | Not Started |
-| Host & Network Auditing | 🔴 | Not Started |
+| **Assessment Methodologies** | 🔴 | [Reconnaissance & Nmap](./eJPT/Methodology.md) |
+| **Host & Network Auditing** | 🔴 | [Windows/Linux Enumeration](./eJPT/Auditing.md) |
+| **Host & Network PenTesting** | 🔴 | [Metasploit & Exploitation](./eJPT/Exploitation.md) |
+| **Web App PenTesting** | 🔴 | [SQLi & XSS Labs](./eJPT/Web_App.md) |
 
+---
