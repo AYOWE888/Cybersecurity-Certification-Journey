@@ -1,0 +1,22 @@
+# 📝 Quiz Report #01: Security Controls
+**Date:** January 12, 2026  
+**Level:** Beginner  
+**Topic:** SY0-701 Objective 1.1
+
+## 📊 Final Score: 80% (4/5)
+
+### 🧐 Question Breakdown
+* **Q1: Category for Firewall/IPS**
+  * **Result:** ❌ (I chose Operational)
+  * **Note:** It is **Technical**. If it's implemented via hardware/software configuration, it's technical.
+* **Q2: Security Guard Purpose**
+  * **Result:** ✅ (Deterrent)
+* **Q3: Restoring from Backup**
+  * **Result:** ✅ (Corrective)
+* **Q4: "Authorized Personnel" Sign**
+  * **Result:** ✅ (Directive)
+* **Q5: Temporary Workaround/Filter**
+  * **Result:** ✅ (Compensating)
+
+---
+[Return to Scoreboard](../README.md)
