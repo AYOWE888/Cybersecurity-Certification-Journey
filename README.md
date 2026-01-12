@@ -3,6 +3,7 @@ Digital journal and lab proof for CCNA, Security+, and eJPT.
 ## 🗺️ Mastery Heatmap
 *Tracking my progress through the CompTIA SY0-701 Exam Objectives.*
 
+🔒 CompTIA Security+ (SY0-701) 
 ### Domain 1: General Security Concepts (12% of Exam)
 | Objective | Status | Mastery Level |
 | :--- | :---: | :--- |
@@ -12,3 +13,19 @@ Digital journal and lab proof for CCNA, Security+, and eJPT.
 | 1.4 Cryptographic Solutions | 🔴 | Not Started |
 
 ---
+
+### 🌐 Cisco CCNA (200-301)
+| Domain | Status | Mastery Level |
+| :--- | :---: | :--- |
+| **1.0** Network Fundamentals | 🔴 | [View Lab Logs](./CCNA/LAB_LOG.md) |
+| **2.0** Network Access | 🔴 | Not Started |
+
+---
+
+### 💀 eJPT (Junior Penetration Tester)
+
+| Section | Status | Mastery Level |
+| :--- | :---: | :--- |
+| Assessment Methodologies | 🔴 | Not Started |
+| Host & Network Auditing | 🔴 | Not Started |
+
