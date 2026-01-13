@@ -17,7 +17,7 @@ Digital journal and lab proof for CCNA, Security+, and eJPT.
 ### 🌐 Cisco CCNA (200-301)
 **CCNA Badge** (https://www.credly.com/badges/63267ec1-acbd-44e7-885a-5e5857fc7692)
 
-**Certificate of Completion** 
+**Certificate of Completion** .CCNA/CCNA-_Introduction_to_Networks_certificate_of_completion.pdf
 
 | Domain | Status | Mastery Level |
 | :--- | :---: | :--- |
