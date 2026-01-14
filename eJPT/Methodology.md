@@ -18,7 +18,7 @@ I created the **REEPP** acronym to remember and have a structured approach to ev
 * **NCSC CAF:** Government-backed framework for organizational cyber-resilience.
 
 ## 🏗️ Pentesting Perspectives
-* **I learned about the 3 pentesting perspectives**
+* *I learned about the 3 pentesting perspectives*
   
 **White Box**: Full Disclosure. The tester has complete access to the network diagrams, source code, and IP addresses.
 **Grey Box**: Partial Disclosure. The tester is given limited information, like a standard user login or a specific set of IP addresses.
