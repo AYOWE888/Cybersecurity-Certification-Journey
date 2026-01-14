@@ -34,3 +34,20 @@ I created the **REEPP** acronym to remember and have a structured approach to ev
 | **Exploit** | The method or code used to take advantage of a vulnerability. |
 | **Payload** | The actual action or "malware" delivered once the exploit succeeds. |
 | **Tool** | The software (like Hydra or Nmap) used to automate the process. |
+
+---
+
+## 🔬 Lab Case Study: Methodology in Action
+*Scenario: TryHackMe Pentesting Fundamentals Practical Lab*
+
+### 1. The Workflow Applied
+* **Information Gathering:** Analyzed a provided social media post for clues.
+* **Reconnaissance:** Performed a **Reverse DNS Search** to resolve a domain to a hidden IP address.
+* **Exploitation:** Used the discovered IP to gain initial entry into the system.
+* **Privilege Escalation:** Identified permission misconfigurations to escalate from a standard user to **Root**.
+
+### 🚩 Evidence of Completion
+* **Lab Source:** [THM: Pentesting Fundamentals](https://tryhackme.com/room/pentestingfundamentals)
+* **Final Flag:** `THM{FLAG_FROM_THE_ROOM_HERE}`🟢
+* **Proof Image:** ![Room Completion Proof](./Proof_Room_Completion.png)
+
