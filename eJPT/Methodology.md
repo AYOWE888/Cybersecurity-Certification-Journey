@@ -48,6 +48,6 @@ I created the **REEPP** acronym to remember and have a structured approach to ev
 
 ### 🚩 Evidence of Completion
 * **Lab Source:** [THM: Pentesting Fundamentals](https://tryhackme.com/room/pentestingfundamentals)
-* **Final Flag:** `THM{FLAG_FROM_THE_ROOM_HERE}`🟢
+* **Final Flag:** `THM{PENTEST_COMPLETE}`🟢
 * **Proof Image:** ![Room Completion Proof](./Proof_Room_Completion.png)
 
