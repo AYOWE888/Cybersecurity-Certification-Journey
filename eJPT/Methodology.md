@@ -21,7 +21,9 @@ I created the **REEPP** acronym to remember and have a structured approach to ev
 * *I learned about the 3 pentesting perspectives*
   
 **White Box**: Full Disclosure. The tester has complete access to the network diagrams, source code, and IP addresses.
+
 **Grey Box**: Partial Disclosure. The tester is given limited information, like a standard user login or a specific set of IP addresses.
+
 **Black Box**: Zero Disclosure. The tester starts with nothing but a company name. You must perform full reconnaissance to find the IP addresses and vulnerabilities.
 
 
