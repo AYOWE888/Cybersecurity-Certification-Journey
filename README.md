@@ -19,7 +19,7 @@ Digital journal and lab proof for CCNA, Security+, and eJPT.
 
 **CCNA Badge** (https://www.credly.com/badges/63267ec1-acbd-44e7-885a-5e5857fc7692)
 
-**Cisco Certificate of completion** [view](CCNA/CCNA_Intro_to_networks_cert_of _completion.md)
+**Cisco Certificate of completion** 
 
 | Domain | Status | Mastery Level |
 | :--- | :---: | :--- |
