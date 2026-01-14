@@ -47,7 +47,8 @@ I created the **REEPP** acronym to remember and have a structured approach to ev
 * **Privilege Escalation:** Identified permission misconfigurations to escalate from a standard user to **Root**.
 
 ### 🚩 Evidence of Completion
-* **Lab Source:** [THM: Pentesting Fundamentals](https://tryhackme.com/room/pentestingfundamentals)
+* **Lab Source:** [THM: Pentesting Fundamentals](https://tryhackme.com/room/pentestingfundamentals?utm_campaign=social_share&utm_medium=social&utm_content=share-completed-room&utm_source=copy&sharerId=68be8259779eb658bbc19236)
+  
 * **Final Flag:** `THM{PENTEST_COMPLETE}`🟢
 * **Proof Image:** ![Room Completion Proof1](./Proof_Room_Completion1.png)![](./Proof_Room_Completion2.png)
 
