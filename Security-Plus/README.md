@@ -8,7 +8,7 @@ I am studying for the SY0-701 exam using Professor Messer's course. Below are my
 | :--- | :--- | :--- | :--- | :--- |
 | 2026-01-12 | Beginner | 1.1 Security Controls | 80% | [View Report](./Quizzes/Quiz_01.md) |
 | 2026-01-12 | Intermediate | 1.1 Security Controls | 100% | [View Report](./Quizzes/Quiz_02.md) |
-| 2026-01-16 | Professional | 1.2 CIA Triad & Non-Repudiation | 100% | [View Report](./Quiz_03.md) |
+| 2026-01-16 | Professional | 1.2 CIA Triad & Non-Repudiation | 100% | [View Report](./Quizzes/Quiz_03.md) |
 
 --
 
