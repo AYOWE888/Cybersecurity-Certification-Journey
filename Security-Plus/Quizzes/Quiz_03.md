@@ -40,7 +40,7 @@
 ---
 
 ### 🚩 Evidence
-![CIA and NF Quiz Result](Security-Plus/Quizzes/NF_QUIZ_RESULT.jpeg)
+![CIA and NF Quiz Result](/NF_QUIZ_RESULT.jpeg)
 *(Screenshot of 100% completion on scenario-based competency challenge)*
 
 ---
