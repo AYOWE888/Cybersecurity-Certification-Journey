@@ -4,7 +4,7 @@
 *Professional standards and frameworks used in ethical hacking engagements.*
 
 ## 🛣️ The REEPP Flow
-I created the **REEPP** acronym to remember and have a structured approach to every target:
+I created the **REEPP** acronym to remember and have a structured approach to every targt:
 1. **Reconnaissance:** Passive gathering of information.
 2. **Enumeration:** Active scanning to find open ports and versions.
 3. **Exploitation:** Using a specific exploit to bypass security.
