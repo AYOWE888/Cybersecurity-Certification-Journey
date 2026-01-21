@@ -49,7 +49,7 @@ Mastered the use of specialized scripts to automate vulnerability discovery and 
 
 _**Although my findings are interesting and really detailed, to master this skill and tool, I'll have to practice continuously.**_
 
-_I'll post my results after every lab here**_
+I'll post my results after every lab here** :)
 **
 ---
 
