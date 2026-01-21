@@ -7,7 +7,7 @@
 | Pentesting Fundamentals | 🟢 | [View Methodology](./Methodology.md) |
 | Introduction to Web Pentesting | 🔴 | Not Started |
 | Burp Suite | 🔴 | Not Started |
-| Network Security (Nmap/Tshark) | 🔴 | [View Network Auditing](./Networkauditing.md) |
+| Network Security (Nmap/Tshark) | 🔴 | [View Network Auditing](./labs/Networkauditing.md) |
 | Vulnerability Research | 🔴 | Not Started |
 | Metasploit | 🔴 | [View Exploitation](./Exploitation.md) |
 | Privilege Escalation | 🔴 | Not Started |
