@@ -1,35 +1,58 @@
-# 🕵️ Laboratory Report: Advanced Network Reconnaissance
-**Target:** TryHackMe - [Further Nmap](https://tryhackme.com/room/furthernmap)
-**Date:** January 19, 2026
+# 🕵️ Lab Report: Advanced Network Reconnaissance
+**Certification Path:** eJPT (Junior Penetration Tester)  
+**Lab Platform:** TryHackMe  
+**Room:** [Further Nmap](https://tryhackme.com/room/furthernmap)
 
-## 🎯 Objective
-To master firewall evasion and advanced service enumeration techniques required for the eJPT certification.
+---
 
-## 🛠️ Methodology & Execution
-To bypass the target's firewall (which blocked ICMP/Ping requests), I utilized the `-Pn` flag to force port discovery.
+## 🏛️ Executive Summary: Core Mechanics
+This lab focused on the transition from basic scanning to advanced enumeration and firewall evasion. The primary takeaway is the ability to interpret how Nmap interacts with the TCP/IP stack to identify "hidden" services.
 
-### 🖥️ Technical Findings
-| Metric | Discovery Result | Command Used |
+### 1. Scanning Methodologies
+* **TCP Connect (`-sT`):** Performs a full 3-way handshake. Reliable but highly visible in application logs.
+* **SYN Stealth (`-sS`):** The "Half-Open" scan. It sends a `SYN`, receives a `SYN/ACK`, and immediately sends a `RST`. This prevents the connection from being fully established, staying below the radar of basic logging.
+* **UDP Scanning (`-sU`):** Connectionless and slower. It relies on the absence of an **ICMP Port Unreachable** message to assume a port is `Open|Filtered`.
+
+### 2. Stealth & Evasion (RFC 793)
+* **Null (`-sN`), FIN (`-sF`), and Xmas (`-sX`):** These "invisible" scans set specific flags (or none). According to RFC 793, if a port is closed, it should respond with a `RST`. If open, it should ignore the packet.
+* **Firewall Bypass (`-Pn`):** Configures Nmap to skip host discovery. Essential for targets that drop ICMP (Ping) packets but leave services exposed.
+* **Firewall Behavior:** Discovered that firewalls can be configured to **drop** TCP packets to blocked ports (specifically those with the `SYN` flag), forcing Nmap to report them as `Filtered`.
+
+### 3. Nmap Scripting Engine (NSE)
+Mastered the use of specialized scripts to automate vulnerability discovery and exploitation:
+* **Categories:** `Safe`, `Intrusive`, `Vuln`, `Exploit`, `Auth`, and `Brute`.
+* **Arguments:** Learned to pass parameters (e.g., `--script-args http-put.url='/uploads/'`) to customize script behavior for specific targets.
+* **Service Specificity:** Noted that each script is tailored for a particular service (e.g., `ftp-anon` for FTP).
+
+---
+
+## 🛠️ Technical Verification (Task 14: Practical)
+
+| Objective | Technical Result | Command Used |
 | :--- | :--- | :--- |
-| **Bypass Technique** | ICMP Firewall Evasion | `nmap -Pn` |
-| **Open Ports (5k)** | **[INSERT NUMBER]** | `sudo nmap -sS -Pn --top-ports 5000` |
-| **FTP Status** | Anonymous Login: **[YES/NO]** | `sudo nmap --script ftp-anon -p 21` |
+| **Firewall Evasion** | Bypassed ICMP block | `nmap -Pn` |
+| **Open Ports (5k)** | **5** | `sudo nmap -sS -Pn --top-ports 5000 <IP>` |
+| **Xmas Scan (999)** | **999 (Open\|Filtered)** | `sudo nmap -sX -p 1-999 <IP>` |
+| **Xmas Reason** | **no-response** | (Nmap Output Detail) |
+| **FTP Vulnerability**| Anonymous Login: **YES** | `nmap --script ftp-anon -p 21 <IP>` |
 
-### 🔍 Service Enumeration
-* **Port 21:** Running `[INSERT FTP VERSION]`
-* **Port 80:** Running `[INSERT HTTP VERSION]`
+### 🔍 Service Enumeration Findings
+* **Port 21 (FTP):** Anonymous access permitted.
+* **Port 80 (HTTP):** Web server detected; requires further web enumeration.
+
+---
+
+## 🧠 Lessons Learned
+* **False Negatives:** If a host appears "down," it is likely a firewall dropping pings. Always re-test with `-Pn`.
+* **NSE Efficiency:** Scripts can move a penetration test from "discovery" to "access" quickly (e.g., using `brute` scripts for credential testing).
+* **Protocol Nuance:** Understanding that UDP scans assume "open" if no ICMP reply is received is vital for accurate network mapping.
+
+Although my findings are interesting and really detailed, to master this skill and tool, I'll have to practice continuously.
+
+I'll post my results after every lab here
 
 ---
 
 ## ✅ Proof of Completion
-* **Verified Score:** 100%
-* **Certificate/Badge URL:** [Insert your THM Profile Link here]
-
-![Nmap Lab Completion Screenshot](./path-to-your-screenshot.png)
-
----
-
-## 🧠 Major Lessons Learned
-1.  **Firewall Evasion:** Standard scans fail when ICMP is blocked. Using `-Pn` is critical for eJPT engagements to ensure "hidden" hosts are scanned.
-2.  **The Power of NSE:** Nmap is more than a scanner; the Nmap Scripting Engine (NSE) allows for automated vulnerability discovery (e.g., `ftp-anon`).
-3.  **Stealth vs. Accuracy:** Using the Stealth SYN Scan (`-sS`) provides a balance of speed and reliability while staying below the radar of basic logging.
+* **Status:** 🟢 100% Completed
+* **Platform:** [My TryHackMe Profile](https://tryhackme.com/p/YOUR_USERNAME)
