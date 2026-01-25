@@ -56,6 +56,5 @@ _**I'll post my results after every lab here :)**_
 ## ✅ Proof of Completion
 * **Status:** 🟢 100% Completed
 
-* **Platform:** [My TryHackMe Profile](https://tryhackme.com/room/furthernmap?utm_campaign=social_share&utm_medium=social&utm_content=room&utm_source=reddit&sharerId=68be8259779eb658bbc19236) [Room Completion Screenshot](./Nmap_Room
-* )
+* **Platform:** [My TryHackMe Profile](https://tryhackme.com/room/furthernmap?utm_campaign=social_share&utm_medium=social&utm_content=room&utm_source=reddit&sharerId=68be8259779eb658bbc19236) [Room Completion Screenshot](./Nmap_Room)
 
