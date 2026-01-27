@@ -38,8 +38,8 @@ Out of the 20-question performance check, the following 8 areas represent the mo
 
 ## 🖼️ Evidence & Verification
 ### Proof of Completion
-* **Lab/Quiz URL:** [Test Url](https://gemini.google.com/share/1c8100e57af6)]**
-* **Completion Badge:** ![Certificate/Badge of Completion](path-to-your-screenshot.png)
+* **Lab/Quiz URL:**[Test Url](https://gemini.google.com/share/1c8100e57af6)]**
+* **Completion Badge:** ![Certificate/Badge of Completion](AAA_Quiz_Result.jpeg)
 
 > **Note:** Screenshot above confirms 100% accuracy across 20 validation questions.
 
