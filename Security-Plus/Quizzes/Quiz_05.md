@@ -46,10 +46,6 @@ Lab/Quiz URL: [Test url](https://gemini.google.com/share/cde19ba43aad)
 
 ![IMPORTANT](Quiz_5.png)
 
-🛠️ Practical Application
-
-During site surveys, these concepts manifest when evaluating Ingress/Egress points and Network Segmentation. Implementing a Policy Enforcement Point (PEP) ensures that "Never Trust, Always Verify" is technically enforced at the packet level.
-
 🚀 Moving Forward
 
 [x] Mastered: Zero Trust & Physical Security
