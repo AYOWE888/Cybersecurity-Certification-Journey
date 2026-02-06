@@ -10,7 +10,7 @@ I am studying for the SY0-701 exam using Professor Messer's course. Below are my
 | 2026-01-12 | Intermediate | 1.1 Security Controls | 100% | [View Report](./Quizzes/Quiz_02.md) |
 | 2026-01-16 | Professional | 1.2 CIA Triad & Non-Repudiation | 100% | [View Report](./Quizzes/Quiz_03.md) |
 | 2026-01-27 | Professional | 1.2 AAA Framework (Messer Video) | 90% | [View Report](./Quizzes/Quiz_04.md) |
-| 2026-02-05 | Professional | 1.2 GAP Analysis, Zero Trust, Physical Security | 90% | [View Report](./Quizzes/Quiz_05.md) |
+| 2026-02-05 | Professional | 1.2 GAP Analysis, Zero Trust, Physical Security | 85% | [View Report](./Quizzes/Quiz_05.md) |
 
 --
 
