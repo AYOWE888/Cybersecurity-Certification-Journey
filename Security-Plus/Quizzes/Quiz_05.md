@@ -44,7 +44,7 @@ _Proof of Completion_
 
 Lab/Quiz URL: Professor Messer SY0-701 Video Index
 
-[!IMPORTANT][./Quiz_5.png]
+[!IMPORTANT](Quiz_5.png)
 Performance Review: Assessment confirms a score of 85%, demonstrating high-significance accuracy across architectural validation questions.
 
 🛠️ Practical Application
