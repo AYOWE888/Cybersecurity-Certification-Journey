@@ -42,10 +42,9 @@ _Significance: Understanding the use of Faraday Cages to block EMI/RFI is critic
 
 _Proof of Completion_
 
-Lab/Quiz URL: Professor Messer SY0-701 Video Index
+Lab/Quiz URL: [Test url](https://gemini.google.com/share/cde19ba43aad)
 
 ![IMPORTANT](Quiz_5.png)
-Performance Review: Assessment confirms a score of 85%, demonstrating high-significance accuracy across architectural validation questions.
 
 🛠️ Practical Application
 
