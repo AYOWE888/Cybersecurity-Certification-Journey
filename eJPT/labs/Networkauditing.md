@@ -47,7 +47,7 @@ Final Flag: THM{ACKME_ENGAGEMENT}
 | :--- | :---: | :--- |
 | Networking & Auditing | | Advanced Nmap service/version detection |
 | Vulnerability Research | | Manual CVE/Exploit-DB correlation |
-| Exploitation  | Reverse shell management and flag capture |
+| Exploitation | | Reverse shell management and flag capture |
 
 
 This document was prepared as part of the eJPT certification preparation path.
