@@ -43,14 +43,14 @@ Final Flag: THM{ACKME_ENGAGEMENT}
 
 **🎓 eJPT Skill Mapping**
 
-| Domain |:---:| Action Taken |
+| Domain | | Action Taken |
 | :--- | :---: | :--- |
 
-|Networking & Auditing| |Advanced Nmap service/version detection|
+| Networking & Auditing | | Advanced Nmap service/version detection |
 
-|Vulnerability Research| |Manual CVE/Exploit-DB correlation|
+| Vulnerability Research | | Manual CVE/Exploit-DB correlation |
 
-|Exploitation| |Reverse shell management and flag capture|
+| Exploitation  | Reverse shell management and flag capture |
 
 
 This document was prepared as part of the eJPT certification preparation path.
