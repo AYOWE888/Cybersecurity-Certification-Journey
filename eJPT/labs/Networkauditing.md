@@ -45,11 +45,8 @@ Final Flag: THM{ACKME_ENGAGEMENT}
 
 | Domain | | Action Taken |
 | :--- | :---: | :--- |
-
 | Networking & Auditing | | Advanced Nmap service/version detection |
-
 | Vulnerability Research | | Manual CVE/Exploit-DB correlation |
-
 | Exploitation  | Reverse shell management and flag capture |
 
 
