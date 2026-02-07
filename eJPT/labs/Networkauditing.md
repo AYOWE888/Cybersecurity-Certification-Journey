@@ -43,7 +43,8 @@ Final Flag: THM{ACKME_ENGAGEMENT}
 
 **🎓 eJPT Skill Mapping**
 
-|Domain| |Action Taken|
+| Domain | | Action Taken |
+| :--- | :---: | :--- |
 
 |Networking & Auditing| |Advanced Nmap service/version detection|
 
