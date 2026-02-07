@@ -23,7 +23,7 @@ Digital journal and lab proof for CCNA, Security+, and eJPT.
 
 | Domain | Status | Mastery Level |
 | :--- | :---: | :--- |
-|  **Network Fundamentals** | 🔴 | [View Lab Logs](./CCNA/LAB_LOG.md) |
+|  **Network Fundamentals** | 🟡 | [View Lab Logs](./CCNA/LAB_LOG.md) |
 |  **Network Access** | 🔴 | Not Started |
 
 ---
@@ -32,7 +32,7 @@ Digital journal and lab proof for CCNA, Security+, and eJPT.
 | Section | Status | Practical Proof (TryHackMe Labs) |
 | :--- | :---: | :--- |
 | **Assessment Methodologies** | 🟢 | [View Methodology](./eJPT/Methodology.md) |
-| **Host & Network Auditing** | 🔴 | [View Lab Index](./eJPT/README.md) |
+| **Host & Network Auditing** | 🟡 | [View Lab Index](./eJPT/README.md) |
 | **Host & Network PenTesting** | 🔴 | [View Lab Index](./eJPT/README.md) |
 | **Web App PenTesting** | 🔴 | [View Lab Index](./eJPT/README.md) |
 ---
