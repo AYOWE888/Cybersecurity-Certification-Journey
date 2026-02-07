@@ -50,4 +50,4 @@ Final Flag: THM{ACKME_ENGAGEMENT}
 | Exploitation | | Reverse shell management and flag capture |
 
 
-This document was prepared as part of the eJPT certification preparation path.
+Proof of completion: ![](./Vuln_search.png)
