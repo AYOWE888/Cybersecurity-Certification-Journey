@@ -77,8 +77,8 @@ All non-emergency modifications are prohibited to ensure maximum stability durin
 
 ## 📚 References & Resources
 
--**Professor messer[](https://youtu.be/48wRbMdHFVI?si=DQ7HE79C5DdRP7hl)** 
--**Gemini created test [](https://gemini.google.com/share/0e0299912d81)**
+- **Professor messer Change management [](https://youtu.be/48wRbMdHFVI?si=DQ7HE79C5DdRP7hl)** 
+- **Gemini created test [](https://gemini.google.com/share/0e0299912d81)**
 
 ---
 
