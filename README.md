@@ -10,7 +10,6 @@ Digital journal and lab proof for CCNA, Security+, and eJPT.
 | 1.1 **Security Controls** | 🟢 | **Mastered** (100%) |
 | 1.2 **Fundamental Security Concepts** | 🟢 | **Done** (CIA, NF, AAA Verified) |
 | 1.3 **Change Management Processes** | 🟢 | **Done** ( Approval process, Ownership, Impact analysis, Backout plan, SOP)
-- Maintenance window
 | 1.4 **Cryptographic Solutions** | 🔴 | Not Started |
 
 ---
