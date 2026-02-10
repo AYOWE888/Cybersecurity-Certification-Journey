@@ -77,9 +77,8 @@ All non-emergency modifications are prohibited to ensure maximum stability durin
 
 ## 📚 References & Resources
 
-- **CompTIA Security+ Exam Objectives (SY0-701):** Domain 1.0 (General Security Concepts)  
-- **NIST SP 800-53:** CM-3 Configuration Change Control  
-- **ITIL 4 Foundation:** Change Enablement Practice Guide  
+-**Professor messer[](https://youtu.be/48wRbMdHFVI?si=DQ7HE79C5DdRP7hl)** 
+-**Gemini created test [](https://gemini.google.com/share/0e0299912d81)**
 
 ---
 
