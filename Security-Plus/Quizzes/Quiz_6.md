@@ -75,5 +75,5 @@ Deception technologies are proactive defensive measures used to divert, track, a
 - Professor Messer Video: [Deception and Disruption](https://youtu.be/X_qfMVty4ts?si=L9KU8rrrdy-kaoZ5)  
 - CompTIA Security+ Exam Objectives (Section 1.2)
 
-**[Proof of Completion](Quiz_6.png)**
+**![Proof of Completion](Quiz_6.png)**
 *Created as part of the **SY0-701** certification path.*
