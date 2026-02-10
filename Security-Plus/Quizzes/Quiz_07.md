@@ -83,7 +83,7 @@ All non-emergency modifications are prohibited to ensure maximum stability durin
 
 ---
 
-## 🏆 Proof of Completion![]()
+## 🏆 Proof of Completion![](Quiz_7.png)
 
 
 
