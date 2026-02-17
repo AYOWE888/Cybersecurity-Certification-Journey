@@ -79,6 +79,6 @@ The risk is a lack of oversight, which could lead to an "emergency fix" causing 
 - [Gemini Technical Quiz](https://gemini.google.com/share/b0114b22118b) 
 
 ---
- 🏆 Proof of Completion ![](/Quiz_8.png)
+ 🏆 Proof of Completion ![](./Quiz_8.png)
 
 
