@@ -76,7 +76,7 @@ The risk is a lack of oversight, which could lead to an "emergency fix" causing 
 ## 📚 References & Resources
 
 - **Professor Messer – Technical Change Management ![](https://youtu.be/H9TYNjcpl-0?si=stS8W-FR5wZY446m)**
-- **Gemini Technical Quiz Q[](https://gemini.google.com/share/b0114b22118b)** 
+- **Gemini Technical Quiz ![](https://gemini.google.com/share/b0114b22118b)** 
 
 ---
 
