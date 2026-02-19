@@ -22,7 +22,7 @@ A deep dive into system dependencies to ensure a change in one API doesn't crash
 
 ---
 
-## 🛠️ Risk Mitigation & Safety Nets
+## 🛠️ Risk Mitigation & Safety Nets lololo
 
 ### Regression Testing
 Running a suite of tests after a change to ensure that existing features still work as intended and haven't "regressed."
