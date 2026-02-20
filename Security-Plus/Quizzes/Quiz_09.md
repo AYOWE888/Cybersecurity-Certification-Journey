@@ -45,6 +45,10 @@ PKI provides a framework for **trust and integrity** by linking public keys to i
 **Q4: Which format is used specifically to export a private key?** The PKCS#12 format (.pfx or .p12).
 
 ---
+## 📚 References & Resources
+
+- Professor Messer –  [PKI Lesson](https://youtu.be/xHAMEF7-inQ?si=Syzwj2qXJ5dSbUT6)
+- [PKI Quiz](https://gemini.google.com/share/787e4ea0d22a)
 
 🏆 Proof of Completion (18/20) ![](Quiz_9.png)
 
