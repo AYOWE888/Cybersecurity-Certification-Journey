@@ -1,4 +1,3 @@
-```markdown
 # 🛡️ PKI Brief: Security+ SY0-701
 
 ## 📋 Executive Summary
