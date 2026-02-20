@@ -49,10 +49,10 @@ Encryption protects data by converting it into unreadable ciphertext. It is cate
 
 ## 📚 References & Resources
 
-* Professor Messer – [Encrypting Data](https://www.google.com/search?q=https://youtu.be/jpsc4c7lntw)
-* [CompTIA SY0-701 Exam Objectives](https://www.comptia.org)
+* Professor Messer – [Encrypting Data](https://youtu.be/jpsc4c7lntw?si=t8y8Jj462hulHlMp)
+* [Encryption Quiz](https://gemini.google.com/share/8bc4b18fe052)
 
 ---
 
-🏆 **Proof of Completion (18/20)**
-```
+🏆 **Proof of Completion (18/20)** ![](Quiz_10.png)
+
