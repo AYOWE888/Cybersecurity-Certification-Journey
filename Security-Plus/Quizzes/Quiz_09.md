@@ -46,5 +46,5 @@ PKI provides a framework for **trust and integrity** by linking public keys to i
 
 ---
 
-🏆 **Proof of Completion (18/20) ![](Quiz_9.png)
+🏆 Proof of Completion (18/20) ![](Quiz_9.png)
 
