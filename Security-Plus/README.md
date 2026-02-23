@@ -19,6 +19,7 @@ I am studying for the SY0-701 exam using Professor Messer's course. Below are my
 | 2026-02-19 | Professional | 1.4 Encrypting Data | 90% | [View Report](./Quizzes/Quiz_10.md) |
 | 2026-02-23 | Professional | 1.4 Key Exchange & tools | 90% | [View Report](./Quizzes/Quiz_11.md) |
 
+
 --
 
 ## 🛠️ Security+ Toolbelt
