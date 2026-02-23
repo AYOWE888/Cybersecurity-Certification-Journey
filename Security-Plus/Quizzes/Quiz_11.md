@@ -52,6 +52,7 @@ Secure communication requires sharing cryptographic keys without interception. T
 
 * Professor Messer – [Key Exchange](https://youtu.be/U6BWn81P5Ec)
 * Professor Messer – [Encryption Technologies](https://youtu.be/u61J0xR_XPU)
+* Gemini - [Quiz](https://gemini.google.com/share/dbbbb5af60e7)
 
 ---
 
