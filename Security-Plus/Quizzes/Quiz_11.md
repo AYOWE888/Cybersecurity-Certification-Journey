@@ -55,4 +55,4 @@ Secure communication requires sharing cryptographic keys without interception. T
 
 ---
 
-🏆 **Proof of Completion (20/20)** ![](Quiz_11.png)
+🏆 **Proof of Completion (18/20)** ![](Quiz_11.png)
