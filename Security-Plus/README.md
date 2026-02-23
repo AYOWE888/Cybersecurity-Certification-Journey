@@ -15,7 +15,7 @@ I am studying for the SY0-701 exam using Professor Messer's course. Below are my
 | 2026-02-10 | Professional | 1.2 Deception and Disruption | 100% | [View Report](./Quizzes/Quiz_06.md) |
 | 2026-02-10 | Professional | 1.3 Change management | 93% | [View Report](./Quizzes/Quiz_07.md) |
 | 2026-02-17 | Professional | 1.3 Technical Change management | 95% | [View Report](./Quizzes/Quiz_08.md) |
-
+| 2026-02-19 | Professional | 1.4 PKI | 95% | [View Report](./Quizzes/Quiz_09.md) |
 
 --
 
