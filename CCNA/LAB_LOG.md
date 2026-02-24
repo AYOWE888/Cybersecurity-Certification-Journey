@@ -4,7 +4,7 @@
 |--------|--------|------------------|--------|--------|
 | Mod 1–3 | Basic Config & Models | 3.5.5: Investigate TCP/IP and OSI Models | 🔴 | [View] |
 | Mod 4 | Physical Layer | 4.6.5: Connect a Wired and Wireless LAN | 🔴 | [View] |
-| Mod 5–8 | Switching Concepts | 2.5.5: Initial Switch Settings <br> 2.7.6: Basic Connectivity <br> 2.9.1: Basic Switch & End Device | 🟢 <br> 🔴 <br> 🔴 | [View] <br> [View] <br> [View] |
+| Mod 5–8 | Switching Concepts | 2.5.5: Initial Switch Settings <br> 2.7.6: Basic Connectivity <br> 2.9.1: Basic Switch & End Device | 🟢 <br> 🔴 <br> 🔴 | [Lab_2_5_5.md](./Labs/Lab_2_5_5.md) <br> [View] <br> [View] |
 | Mod 9 | Address Resolution | 9.2.9: Examine ARP Table <br> 9.3.4: IPv6 Neighbor Discovery | 🔴 <br> 🔴 | [View] <br> [View] |
 | Mod 10 | Basic Router Config | 10.1.4: Initial Router Settings <br> 10.3.4: Connect Router to LAN <br> 10.4.3: Basic Device Config | 🔴 <br> 🔴 <br> 🔴 | [View] <br> [View] <br> [View] |
 | Mod 11 | IPv4 Subnetting | 11.10.2: Design and Implement VLSM | 🔴 | [View] |
