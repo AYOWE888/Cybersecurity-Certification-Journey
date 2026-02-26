@@ -35,7 +35,7 @@ Exploration of Cisco Packet Tracer's dual-view system, moving from a Logical top
 
 > Insert screenshot below:
 
-![Lab Screenshot](images/1.05.jpg)
+![Lab Screenshot](images/1.05.png)
 
 ---
 
