@@ -48,8 +48,4 @@ Analyzed core Security+ concepts regarding data protection and verification. Thi
 **Objective:** Demonstrate practical implementation of obfuscation techniques.
 
 📎 **Screenshot Evidence:**  
-> *(Insert screenshot of your Obfuscation Lab here)*  
-> Example file path: `images/secplus-obfuscation-lab-v8.png`
-
-`markdown
-![Sec+ Pro v8 Obfuscation Lab Screenshot](./Security-Plus/obfuscation.png)
+![Sec+ Pro v8 Obfuscation Lab Screenshot](./obfuscation.png)
