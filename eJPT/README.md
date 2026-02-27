@@ -15,7 +15,7 @@ This repository tracks my progress toward the **eLearnSecurity Junior Penetratio
 
 ### 🟡 Phase 2: Host & Network Auditing (25%)
 *Focus: Enumeration and Data Collection*
-- [x] **System Enumeration:** Gathering user accounts and system details.
+- [ ] **System Enumeration:** Gathering user accounts and system details.
 - [ ] **Post-Enum Actions:** Extracting password hashes and config files.
 - [ ] **Data Management:** Mastering file transfers (SCP/FTP/Netcat).
 *Status: In Progress (Advanced Enumeration pending)*
