@@ -42,7 +42,7 @@ This repository tracks my progress toward the **eLearnSecurity Junior Penetratio
 | Pentesting Fundamentals | 🟢 | [View Methodology](./Methodology.md) |
 | Network Security (Nmap) | 🟢 | [View Network Auditing](./labs/Networkauditing.md) |
 | Vulnerability Research | 🟢 | [View Research Notes](./labs/VulnerabilityResearch.md) |
-| Metasploit | 🟡 | [View Exploitation](./Exploitation.md) |
+| Metasploit | 🟡 | [View Exploitation](.labs/Exploitation.md) |
 | Introduction to Web Pentesting | 🔴 | Not Started |
 | Privilege Escalation | 🔴 | Not Started |
 
