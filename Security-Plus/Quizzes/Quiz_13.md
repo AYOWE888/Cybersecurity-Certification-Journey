@@ -42,18 +42,8 @@ Analyzed the mechanics of digital trust and distributed data integrity. This ses
 * **Status:** 🟢 Completed
 * **Quiz Score:** 19/20
 * **Date:** 2026-03-02
-* **Reference Material:** [Professor Messer SY0-701 1.4 (Certificates](https://youtu.be/-wqU_2ToP1M?si=HkTygh_-s50beTVq) [blockchain](https://youtu.be/-wqU_2ToP1M?si=6YAaPFSxzLJZJMf0)
+* **Reference Material:** [Professor Messer SY0-701 1.4 (Certificates)](https://youtu.be/-wqU_2ToP1M?si=HkTygh_-s50beTVq) & [Blockchain](https://youtu.be/-wqU_2ToP1M?si=6YAaPFSxzLJZJMf0)
 
-## 📸 Proof of Work (Lab Evidence)
+## 📸 Test score ![](Quiz_13.png)
 
-### 🔐 Certificate & Ledger Lab – Sec+ Pro v8
 
-**Lab Environment:** Sec+ Pro v8
-
-**Objective:** Create a CSR and verify blockchain hash linking.
-
-**Security Key:** `P5GX-AKX3-G7GR-A6ZG-A2BH`
-
----
-
-Would you like me to write the 400-word summary essay on these topics now?
