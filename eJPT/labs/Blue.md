@@ -74,7 +74,7 @@ Cracking: Practiced cracking these hashes with John the Ripper.
 ---
 
 # 📸 Lab Evidence
-![blue](blue.png)
+![blue](Blue.png)
 
 ---
 
