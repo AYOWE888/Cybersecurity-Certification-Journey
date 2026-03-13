@@ -74,9 +74,7 @@ Cracking: Practiced cracking these hashes with John the Ripper.
 ---
 
 # 📸 Lab Evidence
-
-(Insert your screenshot of the successful Meterpreter shell and hashdump here)
-![](bSlue.png)
+![blue](blue.png)
 
 ---
 
