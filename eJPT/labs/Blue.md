@@ -86,3 +86,6 @@ Cracking: Practiced cracking these hashes with John the Ripper.
 | eJPT: Assessment | Used advanced Nmap scripts to perform vulnerability research. |
 | Security+ 2.4 | Analyzed network attacks and common service vulnerabilities. |
 | CCNA 1.0 | Verified service availability and protocol port usage (TCP 445). |
+
+:)
+
