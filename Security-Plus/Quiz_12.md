@@ -42,7 +42,7 @@ Analyzed core Security+ concepts regarding data protection and verification. Thi
 
 ## 📸 Proof of Work (Lab Evidence)
 
-### 🔐 Obfuscation Lab – Sec+ Pro v8
+### 🔐 Obfuscation Lab – Sec+ Pro v8 :"
 
 **Lab Environment:** Sec+ Pro v8  
 **Objective:** Demonstrate practical implementation of obfuscation techniques.
