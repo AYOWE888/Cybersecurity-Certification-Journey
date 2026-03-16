@@ -44,7 +44,7 @@ Analyzed the mechanics of digital trust and distributed data integrity. This ses
 * **Date:** 2026-03-02
 * **Reference Material:** [Professor Messer SY0-701 1.4 (Certificates)](https://youtu.be/-wqU_2ToP1M?si=HkTygh_-s50beTVq) & [Blockchain](https://youtu.be/-wqU_2ToP1M?si=6YAaPFSxzLJZJMf0)
 
-## # 🧾 Proof of Completion
+## 🧾 Proof of Completion
 
 Below is the screenshot verifying successful completion of the quiz.
 
