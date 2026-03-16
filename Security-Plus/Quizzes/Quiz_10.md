@@ -1,6 +1,6 @@
 # 🛡️ CompTIA Security+ SY0-701: Encrypting Data (Domain 1.4)
 
-## 📋 Executive Summary
+## 📋Summary
 
 Encryption protects data by converting it into unreadable ciphertext. It is categorized by the state of the data: **At Rest** (stored), **In Transit** (moving), or **In Process** (active).
 
