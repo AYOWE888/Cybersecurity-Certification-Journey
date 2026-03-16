@@ -46,7 +46,7 @@ Analyzed the mechanics of digital trust and distributed data integrity. This ses
 
 ## 🧾 Proof of Completion
 
-Below is the screenshot verifying successful completion of the quiz.
+Below is the screenshot verifying the successful completion of the quiz.
 
 ![Quiz Completion Screenshot](Quiz_13.png)
 
