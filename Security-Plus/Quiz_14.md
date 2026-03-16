@@ -57,18 +57,17 @@ Understanding these classifications allows security teams to better evaluate **r
 
 ---
 
+# 🧾 Proof of Completion
+
+Below is the screenshot verifying successful completion of the quiz.
+
+---
+![Quiz Completion Screenshot]()
+
 # 📚 Reference Material
 
 🎥 **Security+ Threat Actors & Motivations Explanation**
 
 https://youtu.be/6xUH0t6ugIM?si=kOp-E5P94yZufuQW
 
----
 
-# 🧾 Proof of Completion
-
-Below is the screenshot verifying successful completion of the quiz.
-
-![Quiz Completion Screenshot]()
-
----
