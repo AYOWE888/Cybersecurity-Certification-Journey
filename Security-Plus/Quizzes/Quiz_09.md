@@ -1,6 +1,6 @@
 # 🛡️ PKI Brief: Security+ SY0-701
 
-## 📋 Executive Summary
+## 📋Summary
 
 PKI provides a framework for **trust and integrity** by linking public keys to identities via digital certificates.
 
