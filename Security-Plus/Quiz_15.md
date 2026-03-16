@@ -61,7 +61,7 @@ Understanding these classifications helps defenders determine **how attacks ente
 
 Below is the screenshot verifying successful completion of the quiz.
 
-![Quiz Completion Screenshot](Quiz_13.png)
+![Quiz Completion Screenshot](Quiz_15.png)
 
 ---
 ```
