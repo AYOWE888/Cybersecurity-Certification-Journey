@@ -6,7 +6,7 @@
 
 The initial testing phase focused on the **fundamental human elements of cybersecurity**, specifically the different categories of **threat actors** and what drives their behavior. Understanding the **"Who"** and **"Why"** behind cyber attacks is critical for performing effective **risk assessments** and identifying the likely **origins of an attack**.
 
-## 🧪 Test 1: Threat Actors & Motivations
+## Threat Actors & Motivations
 
 **Focus:** Categorizing external and internal threats.
 
