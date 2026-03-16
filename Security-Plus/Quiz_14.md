@@ -69,6 +69,6 @@ https://youtu.be/6xUH0t6ugIM?si=kOp-E5P94yZufuQW
 
 Below is the screenshot verifying successful completion of the quiz.
 
-![Quiz Completion Screenshot](Quiz_13.png)
+![Quiz Completion Screenshot]()
 
 ---
