@@ -5,19 +5,21 @@ I am studying for the SY0-701 exam using Professor Messer's course. Below are my
 
 ## 📈 Quiz History
 
-| Date | Quiz Level | Topic / Domain | Score | Link to Details |
-| :--- | :--- | :--- | :--- | :--- |
-| 2026-01-12 | Beginner | 1.1 Security Controls | 80% | [View Report](./Quizzes/Quiz_01.md) |
-| 2026-01-12 | Intermediate | 1.1 Security Controls | 100% | [View Report](./Quizzes/Quiz_02.md) |
-| 2026-01-16 | Professional | 1.2 CIA Triad & Non-Repudiation | 100% | [View Report](./Quizzes/Quiz_03.md) |
-| 2026-01-27 | Professional | 1.2 AAA Framework (Messer Video) | 90% | [View Report](./Quizzes/Quiz_04.md) |
-| 2026-02-05 | Professional | 1.2 GAP Analysis, Zero Trust, Physical Security | 85% | [View Report](./Quizzes/Quiz_05.md) |
-| 2026-02-10 | Professional | 1.2 Deception and Disruption | 100% | [View Report](./Quizzes/Quiz_06.md) |
-| 2026-02-10 | Professional | 1.3 Change management | 93% | [View Report](./Quizzes/Quiz_07.md) |
-| 2026-02-17 | Professional | 1.3 Technical Change management | 95% | [View Report](./Quizzes/Quiz_08.md) |
-| 2026-02-19 | Professional | 1.4 PKI | 90% | [View Report](./Quizzes/Quiz_09.md) |
-| 2026-02-19 | Professional | 1.4 Encrypting Data | 90% | [View Report](./Quizzes/Quiz_10.md) |
-| 2026-02-23 | Professional | 1.4 Key Exchange & tools | 90% | [View Report](./Quizzes/Quiz_11.md) |
+| Date | Topic / Domain | Score | Link to Details |
+| :--- |:--- | :--- | :--- |
+| 2026-01-12 |  1.1 Security Controls | 80% | [View Report](./Quizzes/Quiz_01.md) |
+| 2026-01-12 |  1.1 Security Controls | 100% | [View Report](./Quizzes/Quiz_02.md) |
+| 2026-01-16 |  1.2 CIA Triad & Non-Repudiation | 100% | [View Report](./Quizzes/Quiz_03.md) |
+| 2026-01-27 |  1.2 AAA Framework (Messer Video) | 90% | [View Report](./Quizzes/Quiz_04.md) |
+| 2026-02-05 |  1.2 GAP Analysis, Zero Trust, Physical Security | 85% | [View Report](./Quizzes/Quiz_05.md) |
+| 2026-02-10 |  1.2 Deception and Disruption | 100% | [View Report](./Quizzes/Quiz_06.md) |
+| 2026-02-10 |  1.3 Change management | 93% | [View Report](./Quizzes/Quiz_07.md) |
+| 2026-02-17 |  1.3 Technical Change management | 95% | [View Report](./Quizzes/Quiz_08.md) |
+| 2026-02-19 |  1.4 PKI | 90% | [View Report](./Quizzes/Quiz_09.md) |
+| 2026-02-19 |  1.4 Encrypting Data | 90% | [View Report](./Quizzes/Quiz_10.md) |
+| 2026-02-23 |  1.4 Key Exchange & tools | 90% | [View Report](./Quizzes/Quiz_11.md) |
+| 2026-02-25 |  1.4 Cryptographic Concepts & Obfuscation | 90% | [View Report](./Quizzes/Quiz_12.md) |
+
 
 
 --
