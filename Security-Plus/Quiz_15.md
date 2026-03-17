@@ -57,6 +57,10 @@ Understanding these classifications helps defenders determine **how attacks ente
 
 ---
 
+# 📚 Gemini test link
+https://gemini.google.com/share/7b3a7201ed07
+---
+
 # 🧾 Proof of Completion
 
 Below is the screenshot verifying successful completion of the quiz.
