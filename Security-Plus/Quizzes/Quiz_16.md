@@ -64,13 +64,19 @@ Understanding these elements helps organizations strengthen **security awareness
 
 🎥 **Security+ Social Engineering & Phishing Overview**
 
-https://youtu.be/6xUH0t6ugIM?si=kOp-E5P94yZufuQW
+https://youtu.be/9SD6DRCKZFU?si=BlpWgStSsSt-Q1X1
+
+---
+
+# 📚 Gemini test link
+
+https://gemini.google.com/share/114dbef8e6a3
 
 ---
 
 # 🧾 Proof of Completion
 
-Below is the screenshot verifying successful completion of the quiz.
+Below is the screenshot verifying the successful completion of the quiz.
 
 ![Quiz Completion Screenshot](Quiz_16.png)
 
