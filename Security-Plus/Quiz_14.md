@@ -61,13 +61,19 @@ Understanding these classifications allows security teams to better evaluate **r
 
 Below is the screenshot verifying successful completion of the quiz.
 
+![Quiz Completion Screenshot](Quiz_14.png)
+
 ---
-![Quiz Completion Screenshot]()
+
+# 🧾 Gemini test link
+https://gemini.google.com/share/89f8a066abdf
+
+---
 
 # 📚 Reference Material
 
 🎥 **Security+ Threat Actors & Motivations Explanation**
 
-https://youtu.be/6xUH0t6ugIM?si=kOp-E5P94yZufuQW
+https://youtu.be/6xUH0t6ugIM?si=YJ2_myqw7G5RM4MX
 
 
