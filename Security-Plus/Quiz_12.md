@@ -40,7 +40,9 @@ Analyzed core Security+ concepts regarding data protection and verification. Thi
 * **Quiz Score:** 20/20 (Mastery)
 * **Date:** 2026-02-25
 
-## 📸 Proof of Work (Lab Evidence)
+## 📸 Proof of Work Quiz + Lab Evidence
+
+![](Quiz_12.png)
 
 ### 🔐 Obfuscation Lab – Sec+ Pro v8 :"
 
