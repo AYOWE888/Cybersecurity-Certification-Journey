@@ -51,4 +51,4 @@ Analyzed core Security+ concepts regarding data protection and verification. Thi
 
 📎 **Screenshot Evidence:**  
 ![Sec+ Pro v8 Obfuscation Lab Screenshot](./obfuscation.png)
-![Cracking Hash](./Hash_crack)
+![Cracking Hash](./Hash_crack.png)
