@@ -29,15 +29,6 @@ I am studying for the SY0-701 exam using Professor Messer's course. Below are my
 ## 🛠️ Security+ Toolbelt
 *Tracking my hands-on proficiency with essential security tools and commands.*
 
-### 🖥️ Command Line Mastery (CLI)
-| Tool | Purpose | Status |
-| :--- | :--- | :---: |
-| `ping` / `hping` | Connectivity & Network Stress Testing | 🟢 |
-| `ipconfig` / `ifconfig` | Interface Configuration & MAC discovery | 🟢 |
-| `nslookup` / `dig` | DNS Troubleshooting | 🔴 |
-| `netstat` | Viewing active connections & listening ports | 🔴 |
-| `tracert` / `traceroute` | Path analysis & TTL identification | 🔴 |
-| `nmap` | Port scanning & Service identification | 🟡 |
 
 ### 🔍 Analysis & Defense Tools
 | Tool | Usage Scenario | Status |
