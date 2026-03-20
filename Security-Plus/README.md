@@ -1,4 +1,5 @@
 
+
 # 🛡️ Security+ Exam Prep Scoreboard
 
 I am studying for the SY0-701 exam using Professor Messer's course. Below are my results from AI-generated practice exams across three difficulty levels.
