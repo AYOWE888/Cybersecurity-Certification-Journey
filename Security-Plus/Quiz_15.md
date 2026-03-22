@@ -23,7 +23,7 @@ In cybersecurity analysis, threat vectors can also be evaluated using several ke
 - **External vectors** originate outside the organization, such as phishing messages, malicious websites, or compromised supply chain providers.
 - **Internal vectors** originate within the organization, including insider misuse, unauthorized removable media, or misconfigured systems.
 
-**Technical Sophistication**
+**Technical Sophistication** l;nvwvn; n;dv
 
 - Some vectors rely on **advanced techniques**, including embedded scripts, supply-chain compromises, or multi-stage attacks.
 - Others depend on **simple attack methods**, such as default credentials, social engineering, or opportunistic malware delivery.
