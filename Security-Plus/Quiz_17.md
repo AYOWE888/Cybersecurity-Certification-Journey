@@ -46,7 +46,7 @@ This module covered the mechanics, risks, and evasion tactics associated with Me
 ---
 
 ## ✅ Proof of Completion
-![Gemini created quiz]()
+![Gemini created quiz](Quiz_17.png)
 ---
 ![]()
 * 📅 **Date Completed:** 2026-03-25
