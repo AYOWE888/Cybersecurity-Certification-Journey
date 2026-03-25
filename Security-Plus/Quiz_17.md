@@ -1,6 +1,6 @@
-# 🛡️ Security+ SY0-701 Lab/Quiz Report: Memory & DLL Injections (Domain 2.3)
+#🛡️ Security+ SY0-701 Lab/Quiz Report: Memory & DLL Injections (Domain 2.3)
 
-## 🎯 Key Points Studied
+##🎯 Key Points Studied
 This module covered the mechanics, risks, and evasion tactics associated with Memory and DLL (Dynamic Link Library) injections. The core concepts tested include:
 *  **Execution Fundamentals:** The requirement that all code (legitimate or malicious) must be loaded from storage into RAM to be processed by the CPU.
 *  **DLL Architecture:** How Windows uses shared libraries to operate, making them an attractive target for "living off the land" attacks.
