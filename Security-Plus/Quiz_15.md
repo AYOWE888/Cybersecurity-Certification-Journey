@@ -64,6 +64,9 @@ https://gemini.google.com/share/7b3a7201ed07
 
 # 🧾 Proof of Completion
 
+
+
+''''''''''
 Below is the screenshot verifying successful completion of the quiz.
 
 ![Quiz Completion Screenshot](Quiz_15.png)
