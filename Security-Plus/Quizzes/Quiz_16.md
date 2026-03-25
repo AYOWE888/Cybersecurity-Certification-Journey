@@ -6,7 +6,7 @@
 
 This module focused on **human-centric threats** that bypass technical controls by exploiting **psychology**. It is a critical component of the **CompTIA Security+ SY0-701** exam, as it bridges the gap between **digital security** and **physical organizational safety**.
 
-## 🧪 Test 3: Phishing & Social Engineering
+## 🧪: Phishing & Social Engineering
 
 **Focus:** Psychological manipulation and physical entry tactics.
 
