@@ -24,7 +24,7 @@ I am studying for the SY0-701 exam using Professor Messer's course. Below are my
 | 2026-03-17 |  2.1 Study Report: 2.1 Threat actors and motivation | 95% | [View Report](./Quizzes/Quiz_14.md) |
 | 2026-03-17 |  2.2 Study Report: 2.2 Common threat vectors | 95% | [View Report](./Quizzes/Quiz_15.md) |
 | 2026-03-18 |  2.2 Study Report: 2.2 Phishing and social engineering  | 90% | [View Report](./Quizzes/Quiz_16.md) |
-
+| 2026-03-25 |  2.3 Study Report: 2.3 Memory & DLL injections  | 95% | [View Report](./Quizzes/Quiz_17.md) |
 ---
 
 ## 🛠️ Security+ Toolbelt
