@@ -39,8 +39,7 @@ This module covered the mechanics, risks, and evasion tactics associated with Me
 ---
 
 ## 📚 Reference Material
-* **Video Source:** Professor Messer - Memory Injections - CompTIA Security+ SY0-701 - 2.3
-* [URL](https://youtu.be/kBcTczu8FsM?si=SZZT2n7pB6I0iS72)
+* **Video Source:** Professor Messer - Memory Injections - CompTIA Security+ SY0-701 - 2.3 [Professor Messer - Memory Injections](https://youtu.be/kBcTczu8FsM?si=SZZT2n7pB6I0iS72)
 
 
 ---
