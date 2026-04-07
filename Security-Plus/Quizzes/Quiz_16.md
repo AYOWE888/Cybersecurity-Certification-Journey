@@ -79,6 +79,6 @@ https://gemini.google.com/share/114dbef8e6a3
 Below is the screenshot verifying the successful completion of the quiz.
 
 ![Quiz Completion Screenshot](Quiz_16.png)
-![Email filtering](Email_filtering.png)
+![Email filtering](./Quizzes/Email_filtering.png)
 
 ---
