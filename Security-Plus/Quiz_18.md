@@ -27,10 +27,12 @@
   * **Professor Messer 2.3:** [Buffer Overflows](https://www.google.com/search?q=https://youtu.be/0-qeeI5jTqU) | [Race Conditions](https://www.google.com/search?q=https://youtu.be/MKptc1lPSw8)
   * **Exam Objective:** SY0-701, Domain 2.3 (Application Vulnerabilities)
 
+    
+-----
+### 📚 Gemini Quiz Link 
+ * **[Quizlink]()
 -----
 
 ### ✅ Proof of Completion
   * **![Test Screenshot](Buffer_overflow&race_conditions.png)
   * **Status:** **93.3%** (28/30 Correct)
-  * **Mastery:** Strong grasp of stack/heap protection and thread synchronization logic.
-  * **Date:** April 7, 2026
