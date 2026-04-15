@@ -23,7 +23,6 @@
 
 ### **Reference Material** 📚
 * **Primary Source:** Professor Messer SY0-701 Training (Videos 2.3)
-* **Official Documentation:** Microsoft Security Response Center (MSRC)
 * **Case Studies:** 2004 Mars Rover Spirit (Race Condition) & 2020 SolarWinds (Supply Chain)
 
 ---
