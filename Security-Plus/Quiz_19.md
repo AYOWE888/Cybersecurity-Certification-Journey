@@ -30,8 +30,8 @@
 
 ### **Proof of Completion** ✅
 * **Module 2.3** [Prof Messer Race Conditions](https://youtu.be/MKptc1lPSw8?si=vl4ubEiP3NRr199R) 
-* **[Prof messer malicious updates](https://youtu.be/KbtUrdBy9Yo?si=GelAMByVQqgci7xN)
-* **[Prof Messer Operating System Vulnerability ](https://youtu.be/narir8qpGq8?)
-* **![Quiz](Quiz_19.png)
+* [Prof messer malicious updates](https://youtu.be/KbtUrdBy9Yo?si=GelAMByVQqgci7xN)
+* [Prof Messer Operating System Vulnerability ](https://youtu.be/narir8qpGq8?)
+* ![Quiz](Quiz_19.png)
 * **Completion Date:** April 14, 2026
-* **[Quiz Link](https://gemini.google.com/share/aec4bfcc4b71)
+* [Quiz Link](https://gemini.google.com/share/aec4bfcc4b71)
