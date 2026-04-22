@@ -37,7 +37,8 @@ This study block focused on **Objective 2.4: Analyze indicators of malicious act
 ---
 
 ### Proof of Completion
-![](Quiz_21.png)
+![Quiz Screenhsot](Quiz_21.png)
+[Quiz link](https://gemini.google.com/share/bb8e44975f1a)
 * **Module 2.4 Review:** Completed
 * **Assessment:** 50-Question Mastery Quiz generated and reviewed
 
