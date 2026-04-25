@@ -36,4 +36,4 @@ Focused on **Module 2.5: Segmentation Mitigation & Hardening**, covering the tec
 
 #### **4. Proof of Completion**
 ![](Quiz_22.png)
-![](Sec_pro_V8_Automatic_updates.png)
+![](Sec_pro _V8_Automatic_updates.png)
