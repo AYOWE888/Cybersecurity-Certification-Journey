@@ -50,7 +50,11 @@ This module covers the architectural foundations of modern IT environments. Key 
 - **Total Questions:** 50
 - **Assessment Type:** Multiple Choice (Knowledge & Application)
 ![](Quiz_23.png)
+
+---
+
 ![](Lab_5.45.png)
+
 Why We Performed This Task
 We did this because transitioning from a flat network to a segmented architecture prevents all devices from seeing each other, which is a critical security risk.  
 
