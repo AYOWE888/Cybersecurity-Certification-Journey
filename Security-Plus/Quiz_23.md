@@ -43,8 +43,7 @@ This module covers the architectural foundations of modern IT environments. Key 
 - [Professor Messer SY0-701 - 3.1 Cloud Infrastructures](https://youtu.be/8qpQ8Q6xxiU)
 - [Professor Messer SY0-701 - 3.1 Network Concepts](https://youtu.be/jd001Hj7XWM)
 - [Professor Messer SY0-701 - 3.1 Infrastructure Considerations](https://youtu.be/Ap3Z_0ZdqpQ)
-
----
+![](Quiz_23.png)
 
 ## 5. Proof of Completion
 - **Quiz Status:** Completed
