@@ -43,10 +43,20 @@ This module covers the architectural foundations of modern IT environments. Key 
 - [Professor Messer SY0-701 - 3.1 Cloud Infrastructures](https://youtu.be/8qpQ8Q6xxiU)
 - [Professor Messer SY0-701 - 3.1 Network Concepts](https://youtu.be/jd001Hj7XWM)
 - [Professor Messer SY0-701 - 3.1 Infrastructure Considerations](https://youtu.be/Ap3Z_0ZdqpQ)
-![](Quiz_23.png)
+
 
 ## 5. Proof of Completion
 - **Quiz Status:** Completed
 - **Total Questions:** 50
 - **Assessment Type:** Multiple Choice (Knowledge & Application)
 ![](Quiz_23.png)
+![](Lab_5.45.png)
+Why We Performed This Task
+We did this because transitioning from a flat network to a segmented architecture prevents all devices from seeing each other, which is a critical security risk.  
+
+We did this so we could create a buffer zone between the untrusted public internet (WAN) and the private internal network by placing the Web Server in a screened subnet.  
+
+Why This Is Important
+We did this because isolation ensures that if a web server is compromised, it does not provide an open path for an attacker to move laterally into sensitive internal data.  
+
+We did this so we could minimize the attack surface by only opening Ports 80 and 443, strictly enforcing the principle of least privilege.
