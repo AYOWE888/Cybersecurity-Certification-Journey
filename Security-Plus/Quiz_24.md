@@ -35,10 +35,9 @@ This module focused on the architectural design of secure networks, emphasizing 
 ---
 
 ### Proof of Completion
-![](Quiz_24.png)
 * **Status**: **COMPLETED**
 * **Date**: May 7, 2026
 
 
 #### Screenshot of Results
-> *[Place Screenshot Here]*
+> ![](Quiz_24.png)
