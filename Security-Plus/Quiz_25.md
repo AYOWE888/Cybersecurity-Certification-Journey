@@ -1,4 +1,4 @@
-CompTIA Security+ SY0-701 Module 3.3
+## Updated Quiz Report: CompTIA Security+ SY0-701 Module 3.3
 
 **Subject:** Data Types, Classifications, and Protection Methods
 
@@ -47,4 +47,8 @@ CompTIA Security+ SY0-701 Module 3.3
 
 #### Screenshot Submission
 
-> [!IMPORTANT](Quiz_25.png)
+> [!IMPORTANT]
+> **Attach Screenshot Below**
+> `[____________________________________________________]`
+> `[                 INSERT IMAGE HERE                  ]`
+> `[____________________________________________________]`
