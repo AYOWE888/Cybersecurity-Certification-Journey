@@ -47,8 +47,8 @@
 
 #### Screenshot Submission
 
-> [!IMPORTANT]
-> **Attach Screenshot Below**
-> `[____________________________________________________]`
-> `[                 INSERT IMAGE HERE                  ]`
-> `[____________________________________________________]`
+> [!IMPORTANT](Quiz_25.png)
+> ****
+> `[]`
+> `[]`
+> `[]`
