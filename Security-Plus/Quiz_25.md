@@ -47,8 +47,4 @@ CompTIA Security+ SY0-701 Module 3.3
 
 #### Screenshot Submission
 
-> [!IMPORTANT]
-> **Attach Screenshot Below**
-> `[____________________________________________________]`
-> `[                 INSERT IMAGE HERE                  ]`
-> `[____________________________________________________]`
+> [!IMPORTANT](Quiz_25.png)
