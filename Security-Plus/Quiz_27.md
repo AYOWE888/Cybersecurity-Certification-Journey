@@ -118,7 +118,3 @@ The pedagogical baseline for this assessment is derived from official CompTIA op
 
 ## 4. Proof of Completion
 ![Gemini practice test](Quiz_27.png)
-System Record Hash    : P5GX-AKX3-G7GR-A6ZG-A2BH
-Evaluation Engine ID  : SEC-701-OBJ4.1-REV2026
-Completion Status     : VERIFIED & RECORDED [SUCCESS]
-======================================================================
