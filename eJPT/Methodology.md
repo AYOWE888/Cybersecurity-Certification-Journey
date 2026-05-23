@@ -3,13 +3,14 @@
 # 🕵️ Penetration Testing Methodology
 *Professional standards and frameworks used in ethical hacking engagements.*
 
-## 🛣️ The REEPP Flow
-I created the **REEPP** acronym to remember and have a structured approach to every target:
-1. **Reconnaissance:** Passive gathering of information.
-2. **Enumeration:** Active scanning to find open ports and versions.
-3. **Exploitation:** Using a specific exploit to bypass security.
-4. **Privilege Escalation:** Moving from a low-level user to 'Root' or 'System' admin.
-5. **Post-Exploitation:** Documenting findings, pivoting, and preparing the final Report.
+## 🛣️ The Pentesting Workflow
+I mapped out the core methodology utilized across TryHackMe infrastructure tracks to maintain a structured approach to every target:
+
+1. **Enumeration:** Start from zero. Determine what is known, what needs to be discovered, and active scanning of the target environment.
+2. **Vulnerability Analysis:** Analyze the enumeration results and connect the dots to identify potential weaknesses or unpatched software.
+3. **Initial Access:** Choose the appropriate exploit or attack vector to execute and gain a functional foothold on the system.
+4. **Privilege Escalation:** Enumerate the system from the inside out to find local misconfigurations or files that allow moving up to administrative privileges.
+5. **Reporting:** Document and clearly communicate all findings, risks, and remediation steps—the ultimate deliverable of an engagement.
 
 ## 📚 Industry Frameworks
 * **OSSTMM:** Focused on scientific metrics and operational security (covers all three; web application, systems, and network).
