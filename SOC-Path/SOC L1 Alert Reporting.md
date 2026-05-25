@@ -20,5 +20,7 @@ Technical detection skills are highly valuable, but pairing them with clear, str
 
 ![3](3.png)
 ![4](4.png)
+![5](5.png)
+![6](6.png)
 
 #Cybersecurity #SOC #IncidentResponse #BlueTeam #TechCommunication #ContinuousLearning
