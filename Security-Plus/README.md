@@ -34,7 +34,7 @@ I am studying for the SY0-701 exam using Professor Messer's course. Below are my
 ### 🔍 Analysis & Defense Tools
 | Tool | Usage Scenario | Status |
 | :--- | :--- | :---: |
-| **Wireshark** | Packet capture and protocol analysis | 🔴 |
+| **Wireshark** | Packet capture and protocol analysis | 🟢 |
 | **OpenSSL** | Generating certificates and testing encryption | 🔴 |
-| **Windows Event Viewer** | Analyzing system logs for brute force signs | 🔴 |
+| **Windows Event Viewer** | Analyzing system logs for brute force signs | 🟢 |
 | **Snort / Suricata** | Basic IDS/IPS rule configuration | 🔴 |
