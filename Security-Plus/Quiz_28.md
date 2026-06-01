@@ -39,5 +39,4 @@
 
 * **Assessment Status:** Passed & Logged
 * **Target Core Matrix:** CompTIA Security+ SY0-701 Domain 4 (Operations and Incident Response)
-* **Validation Key:** `P5GX-AKX3-G7GR-A6ZG-A2BH`
 * **Generated:** June 1, 2026
