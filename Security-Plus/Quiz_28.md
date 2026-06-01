@@ -37,6 +37,8 @@
 
 ### Proof of Completion
 
-* **Assessment Status:** Passed & Logged
+![](11.png)
+![](22.png)
+![](33.png)
 * **Target Core Matrix:** CompTIA Security+ SY0-701 Domain 4 (Operations and Incident Response)
 * **Generated:** June 1, 2026
