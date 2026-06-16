@@ -86,6 +86,4 @@ The target application version is **0.17**.
 
 ### Live Terminal Verification Stream
 
-```text
-[Insert terminal output, screenshots, or verification logs here]
-```
+![](Active.png)
