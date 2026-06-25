@@ -102,8 +102,6 @@ An incident responder requires full visibility into raw network layer transmissi
 
 ### Reference Material
 
-* [Professor Messer's SY0-701 Training Index](https://www.google.com/search?q=https://professormesser.link/701videos)
-* [Professor Messer's 701 Course Notes](https://www.google.com/search?q=https://professormesser.link/701notes)
 * [Video: Security Monitoring (4.4)](https://www.youtube.com/watch?v=np2WI_rM-Ok) | [Video: Security Tools (4.4)](https://www.youtube.com/watch?v=nNiNTviiacU)
 
 ---
