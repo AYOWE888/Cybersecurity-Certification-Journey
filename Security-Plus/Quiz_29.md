@@ -108,5 +108,5 @@ An incident responder requires full visibility into raw network layer transmissi
 
 ### Proof of Completion
 ![](Quiz_29.png)
-![](playbook.png)
-![](SOC.png)
+![](Playbook.png)
+![](soc.png)
