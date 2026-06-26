@@ -76,7 +76,7 @@ This assessment targets **Module 4.5: Modify Enterprise Capabilities to Enhance 
 
 ## Proof of Completion
 
-![](Quiz_30.pbg)
+![](Quiz_30.png)
 
 ### Verification Artifact Placeholder
 
