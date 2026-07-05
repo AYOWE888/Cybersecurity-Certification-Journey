@@ -26,7 +26,7 @@ User roles must be tied directly to secure server sessions or cryptographically 
 
 ### Role-Based Access Control (RBAC)
 Implement a centralized authorization middleware framework to validate user permissions. Enforce a fail-safe default where missing or malformed states result in an immediate drop of the request.
-* *Reference Implementation:* ![](010.png)
+* *Reference Implementation:* ![](07.png)
 
 ### Parameterized Queries
 Bind all user inputs to SQL queries using Prepared Statements to prevent attackers from using parameter tampering vectors to inject malicious database code.
