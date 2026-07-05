@@ -34,7 +34,7 @@ Bind all user inputs to SQL queries using Prepared Statements to prevent attacke
 
 ### Secure Coding Practices
 Utilize server-side sanitization APIs (such as PHP's `filter_input`) and swap weak legacy hashing routines (`md5`) for secure algorithms (`password_hash`).
-* *Reference Implementation:* ![](07.png)
+* *Reference Implementation:* ![](010.png)
 
 ---
 
