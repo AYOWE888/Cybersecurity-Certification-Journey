@@ -118,3 +118,7 @@ Study and quiz materials were curated directly from the following authoritative 
 
 ### 5. Hands-on Practice
 * **Broken Access Control**:  To analyze broken access control mechanics, I established a secure connection to the target subnet using TryHackMe’s OpenVPN configuration file. Operating from my local system, I routed web traffic through Burp Suite Community Edition to intercept and inspect the application's live authentication requests. By analyzing the raw HTTP responses, I identified a client-side logic flaw where the routing pathway relied on an easily altered parameter. Utilizing Burp Suite's interception capabilities, I manually modified the privilege flag to true, successfully bypassing authorization controls to access the administrative dashboard and extract the target flag.
+
+![](03.png)
+![](04.png)
+![](05.png)
