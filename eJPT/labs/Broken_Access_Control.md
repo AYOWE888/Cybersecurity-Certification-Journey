@@ -30,7 +30,7 @@ Implement a centralized authorization middleware framework to validate user perm
 
 ### Parameterized Queries
 Bind all user inputs to SQL queries using Prepared Statements to prevent attackers from using parameter tampering vectors to inject malicious database code.
-* *Reference Implementation:* ![](09.png)
+* *Reference Implementation:* ![](08.png)
 
 ### Secure Coding Practices
 Utilize server-side sanitization APIs (such as PHP's `filter_input`) and swap weak legacy hashing routines (`md5`) for secure algorithms (`password_hash`).
