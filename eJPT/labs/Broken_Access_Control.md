@@ -22,19 +22,19 @@
 
 ### Server-Side Session Validation
 User roles must be tied directly to secure server sessions or cryptographically signed tokens (JWTs) instead of raw URL parameters.
-* *Reference Implementation:* `Screenshot (243).png`
+* *Reference Implementation:* ![](0.png)
 
 ### Role-Based Access Control (RBAC)
 Implement a centralized authorization middleware framework to validate user permissions. Enforce a fail-safe default where missing or malformed states result in an immediate drop of the request.
-* *Reference Implementation:* `Screenshot (241).png`
+* *Reference Implementation:* ![](08.png)
 
 ### Parameterized Queries
 Bind all user inputs to SQL queries using Prepared Statements to prevent attackers from using parameter tampering vectors to inject malicious database code.
-* *Reference Implementation:* `Screenshot (242).png`
+* *Reference Implementation:* ![](09.png)
 
 ### Secure Coding Practices
 Utilize server-side sanitization APIs (such as PHP's `filter_input`) and swap weak legacy hashing routines (`md5`) for secure algorithms (`password_hash`).
-* *Reference Implementation:* `Screenshot (244).png`
+* *Reference Implementation:* ![](010.png)
 
 ---
 
