@@ -12,7 +12,7 @@
 * **Triage:** Routed traffic through Burp Suite to establish a normal authentication baseline with a low-privilege account.
 * **Audit:** Analyzed the Burp HTTP history log for the login `POST` request to `/functions.php`. Found that the server successfully authenticated the user but returned a JSON response leaking routing parameters: `{"status":"success", ..., "redirect_link":"dashboard.php?isadmin=false"}`
 * **Escalation:** Bypassed proxy interception entirely and edited the parameter directly in the browser address bar. Forcing the URL query string from `isadmin=false` to `isadmin=true` completely bypassed the authorization layer because the backend server implicitly trusted the client parameter without checking a session state.
-![](./Security-Plus/03.png)
+![](../Security-Plus/03.png)
 ![](04.png)
 ![](05.png)
 
