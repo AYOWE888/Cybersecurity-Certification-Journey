@@ -22,7 +22,7 @@
 
 ### Server-Side Session Validation
 User roles must be tied directly to secure server sessions or cryptographically signed tokens (JWTs) instead of raw URL parameters.
-* *Reference Implementation:* ![](08.png)
+* *Reference Implementation:* ![]()
 
 ### Role-Based Access Control (RBAC)
 Implement a centralized authorization middleware framework to validate user permissions. Enforce a fail-safe default where missing or malformed states result in an immediate drop of the request.
