@@ -73,3 +73,4 @@
 
 ### Proof of Completion 
 ![](Quiz_33.png)
+![](blue.png)
