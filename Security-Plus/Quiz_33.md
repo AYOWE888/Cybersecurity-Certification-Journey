@@ -57,13 +57,15 @@
 
 ### Reference Material
 
-* Professor Messer CompTIA Security+ SY0-701 Training Series:
-* *Section 5.1: Security Policies*
-* *Section 5.1: Security Standards*
-* *Section 5.1: Security Procedures*
-* *Section 5.1: Security Considerations*
-* *Section 5.1: Data Roles and Responsibilities*
+### Module 5.1 Video Resource Index
 
+| Lesson / Topic | Video Link |
+| --- | --- |
+| **5.1 – Security Policies** | [Security Policies - Professor Messer](https://www.professormesser.com/security-plus/sy0-701/sy0-701-video/security-policies-sy0-701/) |
+| **5.1 – Security Standards** | [Security Standards - Professor Messer](https://www.professormesser.com/security-plus/sy0-701/sy0-701-video/security-standards-sy0-701/) |
+| **5.1 – Security Procedures** | [Security Procedures - Professor Messer](https://www.professormesser.com/security-plus/sy0-701/sy0-701-video/security-procedures-sy0-701/) |
+| **5.1 – Security Considerations** | [Security Considerations - Professor Messer](https://www.professormesser.com/security-plus/sy0-701/sy0-701-video/security-considerations-sy0-701/) |
+| **5.1 – Data Roles and Responsibilities** | [Data Roles and Responsibilities - Professor Messer](https://www.professormesser.com/security-plus/sy0-701/sy0-701-video/data-roles-and-responsibilities-sy0-701/) |
 
 * CompTIA Security+ SY0-701 Certification Exam Objectives: Domain 5.0 (Security Program Management and Oversight).
 
