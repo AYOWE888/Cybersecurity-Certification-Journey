@@ -46,9 +46,4 @@
 * **Quiz ID:** SECPLUS-3.3-COMP-50Q
 
 #### Screenshot Submission
-
-> [!IMPORTANT](Quiz_25.png)
-> ****
-> `[]`
-> `[]`
-> `[]`
+![](Quiz_25.png)
