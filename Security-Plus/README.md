@@ -24,7 +24,18 @@ I am studying for the SY0-701 exam using Professor Messer's course. Below are my
 | 2026-03-17 |  2.1 Study Report: 2.1 Threat actors and motivation | 95% | [View Report](./Quizzes/Quiz_14.md) |
 | 2026-03-17 |  2.2 Study Report: 2.2 Common threat vectors | 95% | [View Report](./Quizzes/Quiz_15.md) |
 | 2026-03-18 |  2.2 Study Report: 2.2 Phishing and social engineering  | 90% | [View Report](./Quizzes/Quiz_16.md) |
-| 2026-03-25 |  2.3 Study Report: 2.3 Memory & DLL injections  | 95% | [View Report](./Quizzes/Quiz_17.md) |
+| 2026-03-25 | 2.3 Study Report: 2.3 Memory & DLL injections | 95% | [View Report](./Quiz_17.md) |
+| 2026-03-26 | 2.3 Buffer Overflows & Race Conditions | --% | [View Report](./Quiz_18.md) |
+| 2026-03-28 | 2.3 Application & OS Vulnerabilities (SY0-701) 🛡️ 2.3 | --% | [View Report](./Quiz_19.md) |
+| 2026-04-02 | 2.3 Security+ Study Report: Module 2.3 Vulnerabilities 🛡️ | --% | [View Report](./Quiz_20.md) |
+| 2026-04-05 | 2.4 Security+ Study Report: Objective 2.4 | --% | [View Report](./Quiz_21.md) |
+| 2026-04-12 | 2.5 Quiz Completion Report: Sec+ SY0-701 Module 2.5 | --% | [View Report](./Quiz_22.md) |
+| 2026-04-19 | 3.1 Study Report: CompTIA Security+ Module 3.1 (Cloud Infrastructures and Network Concepts) | --% | [View Report](./Quiz_23.md) |
+| 2026-04-26 | 3.2 Quiz Performance Report: Secure Infrastructures (Module 3.2) | --% | [View Report](./Quiz_24.md) |
+| 2026-05-03 | 3.3 Updated Quiz Report: CompTIA Security+ SY0-701 Module 3.3 | --% | [View Report](./Quiz_25.md) |
+| 2026-05-10 | 3.4 Quiz Performance Report: CompTIA Security+ Module 3.4 | --% | [View Report](./Quiz_26.md) |
+| 2026-05-17 | 4.1 Quiz Performance & Attribution Report: CompTIA Security+ (SY0-701) — Module 4.1: Secure Computing Resources | --% | [View Report](./Quiz_27.md) |
+
 ---
 
 ## 🛠️ Security+ Toolbelt
