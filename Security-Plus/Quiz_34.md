@@ -1,6 +1,6 @@
 ### Quiz Performance Report: Professor Messer Security+ (SY0-701) Module 5.2
 
-#### 1.Summary
+#### 1. Summary
 
 ---
 
@@ -92,8 +92,8 @@ To cement these metrics and eliminate any remaining confusion before exam day, r
 
 #### 5. Proof of Completion
 ![](Quiz_34.png)
-![[](Fire)
-![](Free)
+![[](Fire.png)
+![](Free.png)
 ====================================================================
 
 ```
