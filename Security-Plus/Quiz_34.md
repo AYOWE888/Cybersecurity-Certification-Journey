@@ -92,6 +92,8 @@ To cement these metrics and eliminate any remaining confusion before exam day, r
 
 #### 5. Proof of Completion
 ![](Quiz_34.png)
+![[](Fire)
+![](Free)
 ====================================================================
 
 ```
