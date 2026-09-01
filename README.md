@@ -1,6 +1,6 @@
 # Cybersecurity-Certification-Journey
 Digital journal and lab proof for CCNA, Security+, and eJPT.
-
+ 
 ## Mastery Heatmap
 *Tracking my progress through the CompTIA SY0-701 Exam Objectives.*
 
