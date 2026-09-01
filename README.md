@@ -1,10 +1,11 @@
 # Cybersecurity-Certification-Journey
 Digital journal and lab proof for CCNA, Security+, and eJPT.
 
-## 🗺️ Mastery Heatmap
+## Mastery Heatmap
 *Tracking my progress through the CompTIA SY0-701 Exam Objectives.*
 
-🔒 CompTIA Security+ (SY0-701)
+###CompTIA Security+ (SY0-701)
+*CompTIA Sec+ Cert & Badge*
 
 ### Domain 1: General Security Concepts (12% of Exam)
 | Objective | Status | Mastery Level |
@@ -31,9 +32,24 @@ Digital journal and lab proof for CCNA, Security+, and eJPT.
 | 3.4 **Physical Security Controls** | 🟢 | **Done** (Site security, surveillance, and access controls) |
 
 ### Domain 4: Operations and Incident Response (28% of Exam)
+
 | Objective | Status | Mastery Level |
 | :--- | :---: | :--- |
-| 4.1 **Common Security Toolsets** | 🟡 | In Progress |
+| 4.1 ** Common Security Toolsets ** | 🟢 | ** Done ** (SIEM, EDR, log analysis, and threat hunting) |
+| 4.2 ** Asset Management ** | 🟢 | ** Done ** (Hardware, software, and data asset tracking) |
+| 4.3 ** Vulnerability Management ** | 🟢 | ** Done ** (Scanning, prioritization, and remediation) |
+| 4.4 ** Alerting and Monitoring ** | 🟢 | ** Done ** (Network monitoring, log aggregation, and alerting) |
+| 4.5 ** Incident Response ** | 🟢 | ** Done ** (Containment, eradication, recovery, and lessons learned) |
+
+### Domain 5: Security Program Management and Oversight (20% of Exam)
+
+| Objective | Status | Mastery Level |
+| :--- | :---: | :--- |
+| 5.1 ** Security Governance ** | 🟢 | ** Done ** (Frameworks, policies, standards, and procedures) |
+| 5.2 ** Risk Management ** | 🟢 | ** Done ** (Identification, qualitative/quantitative assessments, and treatments) |
+| 5.3 ** Third-Party Risk Assessment ** | 🟢 | ** Done ** (Vendor risk, supply chain security, and SLAs) |
+| 5.4 ** Compliance and Audits ** | 🟢 | ** Done ** (Regulatory frameworks, privacy, and assessment types) |
+| 5.5 ** Security Awareness Training ** | 🟢 | ** Done ** (Phishing simulations, continuous training, and metrics) |
 
 ---
 
